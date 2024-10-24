@@ -1,5 +1,4 @@
 # Install instructions
 
-- Install NodeJS
-- `npm install`
-- `npm run dev`
+- Install Docker
+- `docker compose up`
